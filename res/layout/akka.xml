@@ -11,7 +11,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="click me and watch the log"
-            android:id="@+id/btn_start"
+            android:id="@+id/button"
             android:layout_gravity="center|center_vertical"
             android:layout_marginLeft="10dp"
             android:enabled="true"/>
